@@ -1,5 +1,5 @@
-# hacktoberfest
-Learning how to do pull requests for Hacktoberfest 2016!
+![alt tag](https://hacktoberfest.digitalocean.com/assets/hf_logo-52c2c8901ebacc7c28dc212084389f4d950f89c3599db4e37cd9aa572ed096b3.svg)
+Learning how to do pull requests for Hacktoberfest!
 
 # How to create pull requests?
 <em>Step 1</em>: Create a fork of the repository you intend to work on. <br/>
