@@ -1,5 +1,5 @@
 # hacktoberfest
-Learning how to do pull requests for Hacktoberfest!
+Learning how to do pull requests for Hacktoberfest 2016!
 
 # How to create pull requests?
 <em>Step 1</em>: Create a fork of the repository you intend to work on. <br/>
